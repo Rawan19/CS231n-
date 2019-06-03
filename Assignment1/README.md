@@ -12,3 +12,7 @@ get a basic understanding of performance improvements from using higher-level re
 
 Setup
 You can work on the assignment in one of two ways: locally on your own machine, or on a virtual machine on Google Cloud.
+
+
+Official link:
+http://cs231n.github.io/assignments2017/assignment1/
