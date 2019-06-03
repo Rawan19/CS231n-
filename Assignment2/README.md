@@ -7,3 +7,7 @@ implement batch normalization for training deep networks
 implement dropout to regularize networks
 effectively cross-validate and find the best hyperparameters for Neural Network architecture
 understand the architecture of Convolutional Neural Networks and train gain experience with training these models on data
+
+
+Official link:
+http://cs231n.github.io/assignments2017/assignment2/
